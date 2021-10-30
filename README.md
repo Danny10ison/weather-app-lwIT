@@ -1,2 +1,8 @@
-# weather-app-lwIT
+# Weather-app-lwIT
+
 Mini Project - Ellen, Daniel
+
+Project Description
+-------------------
+
+----------|--------------|
